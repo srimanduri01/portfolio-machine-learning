@@ -53,13 +53,13 @@ Satyabhama Institute of Science & Technology, India.
 Preprocessed renewable-energy data and used SARIMA time-series forecasting to evaluate optimal energy sources for a city, showcasing skills in data wrangling, statistical modelling, and predictive analytics.
   
 ### Accident Prediction using Machine Learning 
-Built a predictive pipeline using traffic flow data (via external APIs), road-condition features, and supervised learning to estimate accident occurrence — demonstrating feature engineering, external data integration, and ML model evaluation.
+Built a predictive pipeline using traffic flow data (via external APIs), road-condition features, and supervised learning to estimate accident occurrence, demonstrating feature engineering, external data integration, and ML model evaluation.
   
 ### Customer-Churn Analysis & Modeling 
 Conducted exploratory data analysis, clustering and pipeline-based modeling on a telecom churn dataset to identify churn risk and retention strategies, showing competence in data science workflow and model deployment readiness.
   
 ### Fully Connected & Convolutional Neural Networks 
-Developed and trained both dense and convolutional neural network models in Python/Jupyter to solve classification tasks, illustrating strong grasp of deep-learning architectures and training workflows.
+Developed and trained both dense and convolutional neural network models in Python/Jupyter to solve classification tasks, illustrating a strong grasp of deep-learning architectures and training workflows.
   
 ### RNN and Transformer Models 
 Implemented recurrent neural networks and transformer-based models for sequence modelling, gaining hands-on experience with advanced neural network architectures and data pre-processing for NLP/time-series tasks.
