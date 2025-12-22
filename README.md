@@ -1,51 +1,84 @@
 # Data Scientist
 
 ## Education
-### Master of Science in Data Science 
-Khoury College of Computer Sciences, Northeastern University, USA.
-### Bachelor of Technology in Computer Science – 
-Satyabhama Institute of Science & Technology, India.
+### Master of Science in Business Analytics and Data
 
 ## Work Experience
-### USAA | Jan 2023-Present
+### Texas Capital | Sep 2024 - Present
 #### Machine Learning Engineer
 
-- Developed Basel III-compliant credit risk models (PD, LGD, EAD) using logistic regression and survival analysis in Python, improving regulatory compliance accuracy by 23% and streamlining quarterly reporting cycles.
-- Deployed real-time fraud detection systems leveraging Apache Kafka, PySpark, and Azure Synapse Analytics, enabling the detection of anomalous transaction patterns with 98.5% precision and reducing false positives by 17%.
-- Built LSTM- and CNN-based time series forecasting models to predict loan delinquencies and assess macroeconomic stress impact, enhancing predictive accuracy by 28% over traditional ARIMA models.
-- Applied NLP techniques using BERT transformers and fine-tuned LLMs to extract sentiment-driven credit risk indicators from earnings calls and 10-K filings, increasing early warning lead time for credit events by 2–3 weeks.
-- Created interactive risk monitoring dashboards using Streamlit and SHAP values for model interpretability, enabling business stakeholders to visualize feature importance and model behavior in real time.
-- Automated ML experiment tracking and model lifecycle management with MLflow, incorporating hyperparameter tuning, versioned pipelines, and scheduled retraining workflows with Apache Airflow, improving model refresh efficiency by 35%.
-- Built and deployed RAG-powered LLM systems integrating vector search, structured financial datasets, and domain-optimized retrieval strategies, integrating LLMs into complex enterprise pipelines for fraud detection, credit risk modeling, and customer intelligence.
-- Designed and implemented retrieval-augmented generation (RAG) pipelines using domain-specific financial text, enabling LLMs to answer complex risk and regulatory questions with grounded, auditable context for risk and compliance teams.
-- Developed autonomous AI agents and agentic workflows using LangChain and Python that chained tools such as vector search, SQL queries, and internal REST APIs to automate document analysis, summarization, risk scoring, and generation of executive-ready credit and portfolio insights, significantly reducing manual analysis time for analysts.
-- Collaborated with product managers, risk officers, and engineering teams to define AI use cases, translate business requirements into ML solutions, and prioritize features that improved decision speed and regulatory reporting quality.
-- Led ML development from design to production, collaborating with engineering, compliance, and product teams to ensure business alignment and robust, scalable deployment of AI solutions.
-- Led design reviews and code reviews for ML pipelines, established best practices for experiment tracking, model validation, and monitoring, and mentored junior data scientists on modern LLM, RAG, and MLOps techniques.
-- Engineered a domain-specific NLP pipeline using FinBERT, CNNs for text classification, and Named Entity Recognition (NER) to extract and classify financial entities from unstructured news feeds and analyst reports, enhancing credit risk signal detection by 31% and integrating sentiment analytics into risk scoring models.
-- Designed robust ETL workflows and data orchestration pipelines using Apache Airflow, including automated retries, task dependencies, and DAG optimization for scalable model deployment.
-- Achieved superior loan default prediction accuracy using XGBoost and LightGBM, optimizing hyperparameters with GridSearchCV and Optuna, and increasing model AUC by 15% over baseline models.
-- Performed Monte Carlo simulations for stress testing fixed income portfolios across 1,000+ scenarios, quantifying tail risks under adverse market conditions and validating capital adequacy frameworks for portfolios exceeding $500M in value.
-- Generated automated regulatory reports using Tableau, Excel VBA, and SQL queries for capital adequacy, credit exposure, and default rate analysis, reducing manual reporting time by 60% and supporting quarterly filings for $10B+ in assets under CCAR and DFAST compliance requirements.
-- Mentored junior data scientists and established best practices for experimentation, feature engineering, and MLOps.
+- Developed loan underwriting models using Transformers (BERT fine-tuned) and survival analysis on credit bureau data + NER-extracted financial statements, improving approval accuracy by 20% for a $5B portfolio.
+- Built real-time fraud monitoring with Isolation Forest + LSTM RNN on Kafka-streamed ACH/wire data via Azure Synapse, achieving 97% precision and 22% false positive reduction via sentiment analysis on notes.
+- Designed deposit/cross-sell propensity models using ANN + topic modeling on CRM datasets, powering personalized offers that increased wallet share by 18%.
+- Implemented portfolio stress testing with Monte Carlo simulations + RNN time-series on Azure Databricks, modeling 10K+ scenarios for CECL regulatory capital planning.
+- Created collections optimization via reinforcement learning + LangChain RAG pipelines querying FAISS vector DB on payment logs, reducing DSO by 15 days.
+- Engineered Spark ETL pipelines with Azure Data Factory processing KYC docs into Delta Lake feature stores for ML-ready data.
+- Built Streamlit dashboards for interactive model monitoring and stakeholder demos, accelerating feedback loops during model iteration.
+- Implemented DVC + GridSearchCV for versioned hyperparameter optimization pipelines, improving model reproducibility across quarterly retrains.
+- Deployed FastAPI/Docker scoring APIs on Azure AKS, enabling sub-200ms latency for real-time credit decisions in origination workflows.
+- Automated MLOps lifecycle with MLflow, Airflow, GitHub Actions, and Optuna for hyperparameter tuning, versioning, and quarterly retraining.
+- Developed deposit forecasting with Transformers time-series + Prophet on account data, optimizing liquidity and saving $3M in funding costs annually.
+- Built compliance models with BERT Transformers for NER/sentiment analysis on regulatory filings/transaction notes, flagging BSA/AML violations 48 hours early.
+- Implemented A/B testing frameworks using causal inference on campaign data, measuring impacts on account acquisition and loan margins.
+- Created Power BI/Tableau dashboards connected to Synapse, visualizing model performance, portfolio health, and customer segmentation for C-suite.
+- Mentored 3 junior data scientists on LLM evaluation, prompt engineering, and Azure MLOps, resulting in 2 production contributions.
+- Delivered quarterly impact reports showing $28M+ annual value, securing executive buy-in for enterprise AI adoption.
+ 
+### Magna International | Feb 2022 - August 2024
+#### Machine Learning Engineer                                                             
+ 
+- Developed predictive maintenance using LSTM RNN + survival analysis on sensor telematics data (machine logs, production metrics) from 50+ plants, reducing unplanned downtime by 28%.
+- Built demand/inventory models with Transformers time-series + Prophet on ERP data (millions SKUs), improving fill rates 22% across supply chain.
+- Deployed Streamlit apps for real-time production KPI monitoring across plant managers, enabling proactive capacity adjustments.
+- Integrated Snowflake data warehouse with Databricks for unified analytics across 50+ plants, reducing query times by 40%
+- Designed anomaly pipelines with Isolation Forest + Autoencoders on quality control datasets (defect logs, process parameters), integrated Redis vector DB for RAG analysis, cutting scrap rates 18%.
+- Engineered supplier risk models using gradient boosting + BERT text classification on vendor performance data and contracts, optimizing $2B annual spend.
+- Implemented aftermarket propensity models with logistic regression + ANN on CRM transaction data, boosting upsell conversion 25% for Tier 1 OEM contracts.
+- Created Spark/Kafka pipelines with Azure Data Factory for PLC/IoT/ERP streams into Databricks Delta Lake feature stores.
+- Deployed FastAPI REST APIs on AKS for real-time production scheduling/capacity predictions across 300+ facilities.
+- Automated MLOps with MLflow/Airflow/Optuna for experiment tracking, versioning, and retraining on production cycles.
+- Developed capacity optimization with linear programming + genetic algorithms on workforce/machine data, improving throughput 15% during peaks.
+- Built warranty analytics with Transformers + topic modeling/NER on repair notes, reducing costs by $12M annually.
+- Created Power BI/Tableau executive dashboards for model predictions, production KPIs, and supply chain health.
+- Mentored 4 juniors on time-series Transformers and industrial MLOps, yielding 3 production contributions.
 
-### Accenture | Oct 2019 - Nov 2021
-#### Machine Learning Engineer
-- Engineered a real-time fraud detection system using Apache Kafka and PySpark, processing millions of daily transactions with 99% accuracy in identifying fraudulent activities.
-- Developed a customer segmentation model using K-means clustering and RFM analysis, resulting in a 15% increase in cross-selling opportunities and a 22% improvement in customer retention.
-- Implemented an ETL pipeline using Apache NiFi and Airflow, integrating data from multiple sources and reducing data processing time by 40%.
-- Developed LLM-driven assistants to generate personalized financial summaries and next-best-action recommendations for relationship managers, integrating customer data, segmentation outputs, and unstructured text signals into agent workflows.
-- Implemented RAG-based chat interfaces for internal users, combining vectorized document stores with LLMs to surface policy, product, and risk documentation in natural language, improving support and onboarding efficiency.
-- Partnered with business stakeholders to define KPIs for AI initiatives, tracked impact on cross-sell, retention, fraud reduction, and operational efficiency, and communicated results through dashboards and data stories.
-- Created interactive dashboards using Tableau to visualize key performance indicators, enabling executives to make data-driven decisions and improving reporting efficiency by 35%.
-- Utilized natural language processing (NLP) techniques to analyze customer feedback and social media sentiment, leading to a 20% increase in customer satisfaction scores.
-- Designed and implemented a robust A/B testing framework for evaluating new product features, resulting in a 12% increase in product adoption rates.
-- Built time series forecasting models using LSTM and CNN networks to predict market trends, improving investment strategy accuracy by 18%.
-- Deployed containerized machine learning models using Docker and Kubernetes, reducing deployment time from 10 hours to just 1 hour.
-- Optimized data storage and retrieval processes using Hadoop and HBase, reducing query response times by 60% for large datasets.
-- Applied advanced portfolio optimization techniques using Monte Carlo simulations, increasing risk-adjusted returns by 10% for high-net-worth clients.
-- Developed a credit scoring API using Flask and deployed it on Azure, enabling real-time risk assessment for loan applications.
-- Leveraged LLMs for generating personalized financial insights and automated customer responses, reducing manual support workload by 30% and improving client engagement.
+### BorgWarner | Oct 2020 - Dec 2021
+#### Machine Learning Engineer                                                                         
+
+- Developed turbocharger maintenance models using CNN-LSTM on CAN bus + image data, reducing warranty claims 25%.
+- Built battery SOH forecasting with Transformers time-series + survival analysis on EV telemetry, extending predictions 18 months.
+- Designed supplier quality pipelines with Isolation Forest + BERT NER on procurement docs in FAISS vector store, saving $15M.
+- Implemented electrification demand forecasting with ARIMA + RNN on SAP data for 500K powertrain units.
+- Used Bitbucket Pipelines + Jenkins for CI/CD automation of 12 production models, ensuring zero-downtime deployments
+- Created failure mode analysis with BERT Transformers (sentiment/NER) on service bulletins/claims for design improvements.
+- Engineered Spark pipelines on Databricks for PLC data into real-time feature stores.
+- Deployed FastAPI scoring APIs on Azure AKS with sub-50ms latency for scheduling/yield optimization.
+- Automated MLOps with MLflow/Airflow for weekly retraining and drift detection on 12 models.
+- Built Power BI dashboards for plant KPIs used by operations VPs across 15 facilities.
+- Mentored 3 engineers on time-series CNN, delivering 2 production models from capstones.
+
+### Unico Housing Finance | May 2019 - Sep 2020
+#### Machine Learning Engineer                                                             
+
+- Developed underwriting models with XGBoost + BERT text classification on applicant/property docs, improving accuracy 25%.
+- Built delinquency prediction with LSTM + Cox PH; added LangChain RAG/FAISS for doc retrieval, reducing defaults 18%.
+- Designed k-means segmentation + topic modeling on CRM for targeted loan offers, increasing conversions 22%.
+- Implemented fraud detection with Isolation Forest + NLP NER on KYC via Spark EMR, cutting applications 30%.
+- Created RL collections models; engineered Airflow/PySpark ETL for feature stores.
+- Deployed Flask/Docker APIs on AWS ECS (<100ms) for branch real-time decisions.
+- Automated MLOps with MLflow/Optuna; built Monte Carlo stress tests on SageMaker.
+- Created Power BI dashboards for portfolio health and compliance teams.
+
+### Niyo Global | June 2017 - April 2019
+#### Data Scientist                                                                                                   
+
+- Developed personalization with ANN + collaborative filtering; fraud with LSTM RNN on Kafka (95% precision).
+- Designed propensity/churn models with logistic + sentiment analysis, automating 70% limits and cutting attrition 15%.
+- Built KYC pipelines with BERT NER/text classification, reducing verification from 3 days to 4 hours.
+- Leveraged Google Analytics integration with app telemetry for cohort analysis, enhancing churn model accuracy by 12%.
+- Engineered Spark EMR ETL for account/app telemetry into daily feature stores.
+- Deployed Flask APIs on AWS ECS (<100ms for 5M+ users); MLOps with MLflow/Airflow.
+- Created Power BI dashboards for model performance and fraud trends.
 
 ## Projects
 
