@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Page width & alignment */
+.wrapper {
+  max-width: 1100px;
+  padding-left: 40px;
+}
+
+/* Header container */
+.header-container {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 20px;
+}
+
+/* Profile image */
+.profile-img {
+  width: 160px;
+  border-radius: 8px;
+}
+
+/* Header text */
+.header-text h1 {
+  margin: 0;
+  font-size: 2.2rem;
+}
+
+.subtitle {
+  margin-top: 6px;
+  font-size: 1.1rem;
+  color: #555;
+}
+
+/* Disable default centering */
+header {
+  text-align: left;
+}
