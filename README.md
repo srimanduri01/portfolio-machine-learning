@@ -1,3 +1,18 @@
+---
+layout: default
+---
+
+<div class="header-container">
+  <img src="Bujjamma.jpg" alt="Sri Manduri" class="profile-img" />
+
+  <div class="header-text">
+    <h1>Sri Manduri</h1>
+    <p class="subtitle">Machine Learning Engineer</p>
+  </div>
+</div>
+
+<hr />
+
 # Machine Learning Engineer
 
 Financial Services & Manufacturing  
