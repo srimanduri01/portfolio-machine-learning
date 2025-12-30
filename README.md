@@ -1,51 +1,50 @@
 # Machine Learning Engineer
 
-📍 Financial Services & Manufacturing  
-🧠 LLMs • Time-Series • Risk & Fraud • MLOps  
-☁️ Azure / AWS | Spark | Databricks | AKS  
-💰 $50M+ business impact delivered
+Financial Services & Manufacturing  
+LLMs • Time-Series • Risk & Fraud • MLOps  
+$50M+ business impact delivered
 
-🔹 7+ years building production-grade ML systems  
-🔹 Transformers, RNNs, RL, Survival Analysis, NLP  
-🔹 End-to-end ownership: data → modeling → deployment → monitoring
+7+ years building production-grade ML systems  
+Transformers, RNNs, RL, Survival Analysis, NLP  
+End-to-end ownership: data → modeling → deployment → monitoring
 
 ---
 
-## 🧰 Core Skill Stack
+### Core Skill Stack
 
 | Category | Technologies |
 |--------|-------------|
-| 🤖 ML / AI | Transformers (BERT), LSTM, CNN, ANN, Reinforcement Learning, Survival Analysis |
-| 📈 Time Series | Prophet, SARIMA, ARIMA, RNN, Time-Series Transformers |
-| 🧠 NLP / LLM | NER, Sentiment Analysis, Topic Modeling, LangChain, RAG, FAISS |
-| ⚙️ MLOps | MLflow, Airflow, DVC, Optuna, GitHub Actions |
-| ☁️ Cloud | Azure (AKS, Synapse, ADF, Databricks), AWS (ECS, SageMaker, EMR) |
-| 🔄 Data | Spark, Kafka, Delta Lake, Snowflake |
-| 📊 BI & Apps | Power BI, Tableau, Streamlit |
-| 🧪 APIs | FastAPI, Flask, Docker |
+| ML / AI | Transformers (BERT), LSTM, CNN, ANN, Reinforcement Learning, Survival Analysis |
+| Time Series | Prophet, SARIMA, ARIMA, RNN, Time-Series Transformers |
+| NLP / LLM | NER, Sentiment Analysis, Topic Modeling, LangChain, RAG, FAISS |
+| MLOps | MLflow, Airflow, DVC, Optuna, GitHub Actions |
+| Cloud | Azure (AKS, Synapse, ADF, Databricks), AWS (ECS, SageMaker, EMR) |
+| Data | Spark, Kafka, Delta Lake, Snowflake |
+| BI & Apps | Power BI, Tableau, Streamlit |
+| APIs | FastAPI, Flask, Docker |
 
 ---
 
-## 📊 Impact Highlights
+## Impact Highlights
 
-- 💰 $28M+ annual value delivered in financial services
-- 🏦 Improved loan underwriting accuracy by **20%** on a **$5B portfolio**
-- 🚨 Fraud detection with **97% precision**, reducing false positives **22%**
-- 🏭 Reduced unplanned manufacturing downtime **28%** across 50+ plants
-- 📉 Cut scrap & warranty costs by **$27M+**
-- ⏱ Reduced DSO by **15 days** using RL-based collections optimization
-- 💵 Saved **$3M annually** via deposit & liquidity forecasting
+- $28M+ annual value delivered in financial services
+- Improved loan underwriting accuracy by **20%** on a **$5B portfolio**
+- Fraud detection with **97% precision**, reducing false positives **22%**
+- Reduced unplanned manufacturing downtime **28%** across 50+ plants
+- Cut scrap & warranty costs by **$27M+**
+- Reduced DSO by **15 days** using RL-based collections optimization
+- Saved **$3M annually** via deposit & liquidity forecasting
 
 ---
 
-## 🎓 Education
+## Education
 
 ### Master of Science in Business Analytics and Data  
 **Trine University**
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### Texas Capital | Sep 2024 – Present  
 **Machine Learning Engineer**
@@ -126,26 +125,26 @@
 
 ---
 
-## 🧪 Selected Projects
+## Selected Projects
 
-### 🔋 Renewable Energy Forecasting
+### Renewable Energy Forecasting
 SARIMA-based forecasting to evaluate optimal energy sourcing for a city  
 **Skills:** Time-series analysis, data preprocessing, statistical modeling  
 🔗 [Code](https://github.com/srimanduri01/NHAData_Renewable_Energy_Sources_SARIMA_Model)
 
-### 🚗 Accident Prediction System
+### Accident Prediction System
 ML pipeline using traffic flow APIs and road-condition data to predict accidents  
 **Skills:** External data integration, feature engineering, supervised ML  
 🔗 [Code](https://github.com/srimanduri01/Accident_Data_Machine_Learning)
 
-### 📉 Customer Churn Modeling
+### Customer Churn Modeling
 EDA, clustering, and pipeline-based churn prediction for telecom data  
 **Skills:** Data science workflow, model evaluation, segmentation  
 🔗 [Code](https://github.com/srimanduri01/Finding-Happy-customers-by-reducing-the-customers-that-churn.-)
 
 ---
 
-## 🏗️ Reference ML Architecture
+## Reference ML Architecture
 
 Typical production ML systems I’ve built:
 - Kafka / APIs → Spark / Databricks → Feature Store
@@ -155,7 +154,7 @@ Typical production ML systems I’ve built:
 
 ---
 
-## 📌 What I’m Looking For
+## What I’m Looking For
 
 - Senior / Staff Machine Learning Engineer roles
 - High-impact applied ML in finance, risk, or large-scale systems
