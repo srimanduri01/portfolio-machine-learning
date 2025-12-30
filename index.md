@@ -4,8 +4,6 @@ layout: default
 
 <div class="hero">
   <img src="assets/images/profile.jpg" alt="Sri Manduri" class="hero-avatar" />
-  <h1>Sri Manduri</h1>
-  <p class="hero-subtitle">Machine Learning Engineer</p>
 </div>
 
 <hr />
