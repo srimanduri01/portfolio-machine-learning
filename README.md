@@ -1,5 +1,5 @@
 <img
-  src="{{ 'Bujjamma.jpg' | relative_url }}"
+  src="{{ '/Bujjamma.jpg' | relative_url }}"
   alt="Sri Manduri"
   width="120"
   height="120"
