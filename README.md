@@ -3,8 +3,7 @@
   alt="Sri Manduri"
   width="120"
   height="120"
-  style="border-radius:50%;"
-  >
+  style="border-radius:50%;" >
 
 # Machine Learning Engineer
 
