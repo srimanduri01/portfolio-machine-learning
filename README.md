@@ -1,9 +1,9 @@
-<img
-  src="{{ '/Bujjamma.jpg' | relative_url }}"
-  alt="Sri Manduri"
-  width="120"
-  height="120"
-  style="border-radius:50%;" >
+<div align="center">
+
+<img src="{{ '/Bujjamma.jpg' | relative_url }}" width="120" height="120" style="border-radius:50%;">
+
+</div>
+
 
 # Machine Learning Engineer
 
