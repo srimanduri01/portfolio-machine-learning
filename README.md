@@ -1,8 +1,4 @@
 <div class="hero">
-  <div class="hero-text">
-    <p>Machine Learning Engineer</p>
-  </div>
-
   <div class="hero-image">
     <img
       src="{{ '/Bujjamma.jpg' | relative_url }}"
