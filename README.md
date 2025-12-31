@@ -1,7 +1,9 @@
 <div class="hero">
   <div class="hero-image">
     <img
-      src="{{ '/Bujjamma.jpg' | relative_url }}"
+      src="{{ '/Bujjamma.jpg' | relative_url }}" width="120" height="120" style="border-radius:50%;">
+
+</div>
     >
   </div>
 </div>
