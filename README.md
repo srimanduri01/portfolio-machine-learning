@@ -179,5 +179,4 @@ Typical production ML systems I’ve built:
 - 🌐 View my **[Machine Learning Portfolio](https://srimanduri01.github.io/portfolio-machine-learning/)**
 - 💻 Explore projects on **[GitHub](https://github.com/srimanduri01?tab=repositories)**
 - 📧 Email: **srimanduri01@gmail.com**
-- 📞 Phone: **(469) 215-5296**
 
